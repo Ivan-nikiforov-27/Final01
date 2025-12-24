@@ -33,9 +33,13 @@ requirements.txt                # список зависимостей (для 
 README.md                       # этот файл
 
 Содержимое .env (используется dotenv)
+
 API_BASE_URL=https://kinopoiskapiunofficial.tech/api/v2.2/films
+
 API_KEY=4c169ae8-0212-420a-bb7a-7a5cac9e87d5
+
 UI_BASE_URL=https://www.kinopoisk.ru
+
 INVALID_FILM_ID=000
 
 
